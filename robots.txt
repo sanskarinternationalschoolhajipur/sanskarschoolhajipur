@@ -1,0 +1,146 @@
+# =============================================================
+# ROBOTS.TXT — Sanskar International School Hajipur
+# Website : https://www.sanskarschoolhajipur.in
+# Updated : 2026-04-04
+# Purpose : Allow all search engines + AI crawlers
+#           Block admin/private areas only
+# =============================================================
+
+# ── GLOBAL RULE — allow all bots by default ──────────────────
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /wp-admin/
+Disallow: /cgi-bin/
+Disallow: /*.php$
+Disallow: /private/
+Disallow: /temp/
+Disallow: /staging/
+
+# ── GOOGLE (Search + Images + News + Discover) ───────────────
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Googlebot-Image
+Allow: /
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.png$
+Allow: /*.webp$
+
+User-agent: Googlebot-News
+Allow: /blog/
+Allow: /news/
+Allow: /results/
+
+# ── GOOGLE AI & EXTENDED ─────────────────────────────────────
+# Google-Extended = Gemini training + AI Overview citations
+User-agent: Google-Extended
+Allow: /
+
+# ── BING / MICROSOFT ─────────────────────────────────────────
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 2
+
+User-agent: msnbot
+Allow: /
+
+User-agent: msnbot-media
+Allow: /
+
+# ── OPENAI / CHATGPT ─────────────────────────────────────────
+# GPTBot = ChatGPT web browsing + training
+User-agent: GPTBot
+Allow: /
+
+# OAI-SearchBot = ChatGPT live search answers
+User-agent: OAI-SearchBot
+Allow: /
+
+# ── ANTHROPIC / CLAUDE ───────────────────────────────────────
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# ── PERPLEXITY AI ─────────────────────────────────────────────
+User-agent: PerplexityBot
+Allow: /
+
+# ── META AI ──────────────────────────────────────────────────
+User-agent: FacebookBot
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+# ── APPLE / SIRI ─────────────────────────────────────────────
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# ── YAHOO / OATH ─────────────────────────────────────────────
+User-agent: Slurp
+Allow: /
+Crawl-delay: 3
+
+# ── DUCKDUCKGO ───────────────────────────────────────────────
+User-agent: DuckDuckBot
+Allow: /
+
+# ── YANDEX (Russia) ──────────────────────────────────────────
+User-agent: YandexBot
+Allow: /
+Crawl-delay: 3
+
+# ── BAIDU (China) ────────────────────────────────────────────
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 5
+
+# ── SOCIAL MEDIA CRAWLERS ────────────────────────────────────
+# WhatsApp link preview
+User-agent: WhatsApp
+Allow: /
+
+# LinkedIn post previews
+User-agent: LinkedInBot
+Allow: /
+
+# Twitter/X card fetcher
+User-agent: Twitterbot
+Allow: /
+
+# ── BLOCK KNOWN BAD BOTS ─────────────────────────────────────
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+# ── SITEMAPS ─────────────────────────────────────────────────
+Sitemap: https://www.sanskarschoolhajipur.in/sitemap.xml
+Sitemap: https://www.sanskarschoolhajipur.in/sitemap-images.xml
+
+# ── SCHOOL DETAILS (for bots that read comments) ─────────────
+# Name    : Sanskar International School Hajipur
+# Address : Near Devraj Path, Hathsarganj, Hajipur, Vaishali, Bihar 844102
+# Phone   : +91 7707090111
+# GMB     : https://share.google/P1iqPYcXnVO980kJf
+# Email   : sanskarschoolhajipur@gmail.com
+# Type    : CBSE Affiliated School
+# Classes : Play Class to Class XII
