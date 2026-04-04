@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- =================================================================
+       IMAGE SITEMAP — Sanskar International School Hajipur
+       Helps Google Image Search rank school photos
+       Updated: 2026-04-04
+  ================================================================= -->
+
+  <url>
+    <loc>https://www.sanskarschoolhajipur.in/</loc>
+    <image:image>
+      <image:loc>https://www.sanskarschoolhajipur.in/logo.png</image:loc>
+      <image:title>Sanskar International School Hajipur Logo — CBSE School Bihar</image:title>
+      <image:caption>Official crest of Sanskar International School Hajipur — ज्ञान दीपेन भास्वता. Best CBSE school in Hajipur, Vaishali, Bihar.</image:caption>
+      <image:geo_location>Hajipur, Vaishali, Bihar, India</image:geo_location>
+      <image:license>https://www.sanskarschoolhajipur.in/</image:license>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.sanskarschoolhajipur.in/campus.jpg</image:loc>
+      <image:title>Sanskar International School Hajipur Campus — Best CBSE School in Hajipur Bihar</image:title>
+      <image:caption>Main campus building of Sanskar International School at Near Devraj Path, Hathsarganj, Hajipur, Vaishali, Bihar 844102. Yellow and green building with modern infrastructure.</image:caption>
+      <image:geo_location>Hajipur, Vaishali, Bihar, India</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.sanskarschoolhajipur.in/student-hero.jpg</image:loc>
+      <image:title>Sanskar International School Hajipur Student in Uniform</image:title>
+      <image:caption>Student of Sanskar International School Hajipur in school uniform — light yellow shirt and bottle green tie. Your child deserves the best.</image:caption>
+      <image:geo_location>Hajipur, Vaishali, Bihar, India</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.sanskarschoolhajipur.in/classroom-1.jpg</image:loc>
+      <image:title>Activity Based Learning at Sanskar International School Hajipur</image:title>
+      <image:caption>Young students engaged in hands-on activity-based learning at Sanskar International School Hajipur. NEP 2020 aligned CBSE curriculum.</image:caption>
+      <image:geo_location>Hajipur, Vaishali, Bihar, India</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.sanskarschoolhajipur.in/classroom-2.jpg</image:loc>
+      <image:title>Nursery Classroom at Sanskar International School Hajipur</image:title>
+      <image:caption>Nursery and Play Class students at Sanskar International School Hajipur learning with pencils and notebooks. Best nursery school in Hajipur.</image:caption>
+      <image:geo_location>Hajipur, Vaishali, Bihar, India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.sanskarschoolhajipur.in/#leadership</loc>
+    <image:image>
+      <image:loc>https://www.sanskarschoolhajipur.in/principal-hajipur.jpg</image:loc>
+      <image:title>Shashi Kala Singh — Principal, Sanskar International School Hajipur</image:title>
+      <image:caption>Mrs. Shashi Kala Singh, Principal of Sanskar International School Hajipur Main Campus. M.A., D.L.Ed. with 30 years of teaching experience in Bihar.</image:caption>
+      <image:geo_location>Hajipur, Vaishali, Bihar, India</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.sanskarschoolhajipur.in/principal-patna.jpg</image:loc>
+      <image:title>Shalini Shikha — Principal, Sanskar International School Patna Campus</image:title>
+      <image:caption>Mrs. Shalini Shikha, Principal of Sanskar International School Hajipur Patna Branch. M.A., B.Ed. with 10 years of teaching experience.</image:caption>
+      <image:geo_location>Patna, Bihar, India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.sanskarschoolhajipur.in/gallery</loc>
+    <image:image>
+      <image:loc>https://www.sanskarschoolhajipur.in/annual-day.jpg</image:loc>
+      <image:title>Annual Day at Sanskar International School Hajipur</image:title>
+      <image:caption>Students performing at Annual Day celebration of Sanskar International School Hajipur.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.sanskarschoolhajipur.in/sports-day.jpg</image:loc>
+      <image:title>Sports Day at Sanskar International School Hajipur</image:title>
+      <image:caption>Sports Day activities at Sanskar International School Hajipur — cricket, football, kabaddi, yoga.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.sanskarschoolhajipur.in/cultural-fest.jpg</image:loc>
+      <image:title>Cultural Fest at Sanskar International School Hajipur</image:title>
+      <image:caption>Cultural festival at Sanskar International School Hajipur showcasing dance, music, and Indian traditions.</image:caption>
+    </image:image>
+  </url>
+
+</urlset>
