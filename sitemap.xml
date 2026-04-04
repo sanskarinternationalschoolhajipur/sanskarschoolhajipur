@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+  xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+  xsi:schemaLocation="
+    http://www.sitemaps.org/schemas/sitemap/0.9
+    http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- =========================================================
+       SANSKAR INTERNATIONAL SCHOOL HAJIPUR — SITEMAP v2
+       Domain  : https://www.sanskarschoolhajipur.in
+       Updated : 2026-04-04
+       School  : Best CBSE School in Hajipur, Vaishali, Bihar
+       Contact : +91 7707090111
+       GMB     : https://share.google/P1iqPYcXnVO980kJf
+  ========================================================== -->
+
+  <!-- HOME — Priority 1.0 (highest) -->
+  <url>
+    <loc>https://www.sanskarschoolhajipur.in/</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.sanskarschoolhajipur.in/og-image.jpg</image:loc>
+      <image:title>Sanskar International School Hajipur — Best CBSE School in Hajipur Bihar</image:title>
+      <image:caption>No.1 CBSE English medium school in Hajipur, Vaishali, Bihar. Play Class to Class XII. Admissions open 2026–27.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.sanskarschoolhajipur.in/logo.png</image:loc>
+      <image:title>Sanskar International School Hajipur Logo</image:title>
+      <image:caption>Official logo of Sanskar International School Hajipur — ज्ञान दीपेन भास्वता</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.sanskarschoolhajipur.in/campus.jpg</image:loc>
+      <image:title>Sanskar International School Hajipur Campus Building</image:title>
+      <image:caption>Main campus of Sanskar International School at Devraj Path, Hathsarganj, Hajipur, Vaishali, Bihar 844102</image:caption>
+    </image:image>
+  </url>
+
+  <!-- ADMISSIONS 2026-27 — Priority 1.0 (tied highest — main conversion goal) -->
+  <url>
+    <loc>https://www.sanskarschoolhajipur.in/admissions</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- WHY BEST SCHOOL — Priority 1.0 (primary ranking keyword page) -->
+  <url>
+    <loc>https://www.sanskarschoolhajipur.in/#why-best</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- CBSE CURRICULUM — Priority 0.95 -->
+  <url>
+    <loc>https://www.sanskarschoolhajipur.in/#cbse-curriculum</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- ADMISSIONS OPEN SECTION — Priority 0.95 -->
+  <url>
+    <loc>https://www.sanskarschoolhajipur.in/#admissions-open</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- ABOUT US -->
+  <url>
+    <loc>https://www.sanskarschoolhajipur.in/about</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- ACADEMICS / CBSE CURRICULUM PAGE -->
+  <url>
+    <loc>https://www.sanskarschoolhajipur.in/academics</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- LEADERSHIP / PRINCIPAL PAGE -->
+  <url>
+    <loc>https://www.sanskarschoolhajipur.in/#leadership</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.sanskarschoolhajipur.in/principal-hajipur.jpg</image:loc>
+      <image:title>Shashi Kala Singh — Principal, Sanskar International School Hajipur</image:title>
+      <image:caption>Principal of Hajipur campus. M.A., D.L.Ed. with 30 years of teaching experience.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.sanskarschoolhajipur.in/principal-patna.jpg</image:loc>
+      <image:title>Shalini Shikha — Principal, Sanskar International School Patna Campus</image:title>
+      <image:caption>Principal of Patna campus. M.A., B.Ed. with 10 years of teaching experience.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- FACILITIES -->
+  <url>
+    <loc>https://www.sanskarschoolhajipur.in/facilities</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- FAQ -->
+  <url>
+    <loc>https://www.sanskarschoolhajipur.in/#faq</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- CONTACT -->
+  <url>
+    <loc>https://www.sanskarschoolhajipur.in/contact</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- GALLERY -->
+  <url>
+    <loc>https://www.sanskarschoolhajipur.in/gallery</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.sanskarschoolhajipur.in/classroom-1.jpg</image:loc>
+      <image:title>Students learning at Sanskar International School Hajipur — Activity Based Learning</image:title>
+      <image:caption>Young students engaged in activity-based learning at Sanskar International School Hajipur</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.sanskarschoolhajipur.in/classroom-2.jpg</image:loc>
+      <image:title>Classroom at Sanskar International School Hajipur — Best CBSE School Hajipur</image:title>
+      <image:caption>Nursery and primary students studying at Sanskar International School Hajipur</image:caption>
+    </image:image>
+  </url>
+
+  <!-- TRANSPORT -->
+  <url>
+    <loc>https://www.sanskarschoolhajipur.in/transport</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- RESULTS / ACHIEVEMENTS -->
+  <url>
+    <loc>https://www.sanskarschoolhajipur.in/results</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- CO-CURRICULAR / ACTIVITIES -->
+  <url>
+    <loc>https://www.sanskarschoolhajipur.in/#cocurricular</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- BLOG / NEWS — important for AEO long-term -->
+  <url>
+    <loc>https://www.sanskarschoolhajipur.in/blog</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- PATNA BRANCH PAGE -->
+  <url>
+    <loc>https://www.sanskarschoolhajipur.in/patna-branch</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- FEE STRUCTURE PAGE -->
+  <url>
+    <loc>https://www.sanskarschoolhajipur.in/fee-structure</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ONLINE ADMISSION FORM -->
+  <url>
+    <loc>https://www.sanskarschoolhajipur.in/apply</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+</urlset>
